@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 899f213d48ec064418893f3a041e6e67
+timeCreated: 1463649014
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - poringPrefab: {fileID: 147966, guid: 4a874873476ff8c43ad1421ca700e5af, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

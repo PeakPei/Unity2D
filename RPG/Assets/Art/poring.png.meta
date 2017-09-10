@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: 469b2f1316ff08c419e29caacb610674
+timeCreated: 1456842022
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: poring_0
+    21300002: poring_1
+    21300004: poring_2
+    21300006: poring_3
+    21300008: poring_4
+    21300010: poring_5
+    21300012: poring_6
+    21300014: poring_7
+    21300016: poring_8
+    21300018: poring_9
+    21300020: poring_10
+    21300022: poring_11
+    21300024: poring_12
+    21300026: poring_13
+    21300028: poring_14
+    21300030: poring_15
+    21300032: poring_16
+    21300034: poring_17
+    21300036: poring_18
+    21300038: poring_19
+    21300040: poring_20
+    21300042: poring_21
+    21300044: poring_22
+    21300046: poring_23
+    21300048: poring_24
+    21300050: poring_25
+    21300052: poring_26
+    21300054: poring_27
+    21300056: poring_28
+    21300058: poring_29
+    21300060: poring_30
+    21300062: poring_31
+    21300064: poring_32
+    21300066: poring_33
+    21300068: poring_34
+    21300070: poring_35
+    21300072: poring_36
+    21300074: poring_37
+    21300076: poring_38
+    21300078: poring_39
+    21300080: poring_40
+    21300082: poring_41
+    21300084: poring_42
+    21300086: poring_43
+    21300088: poring_44
+    21300090: poring_45
+    21300092: poring_46
+    21300094: poring_47
+    21300096: poring_48
+    21300098: poring_49
+    21300100: poring_50
+    21300102: poring_51
+    21300104: poring_52
+    21300106: poring_53
+    21300108: poring_54
+    21300110: poring_55
+    21300112: poring_56
+    21300114: poring_57
+    21300116: poring_58
+    21300118: poring_59
+    21300120: poring_60
+    21300122: poring_61
+    21300124: poring_62
+    21300126: poring_63
+    21300128: poring_64
+    21300130: poring_65
+    21300132: poring_66
+    21300134: poring_67
+    21300136: poring_68
+    21300138: poring_69
+    21300140: poring_70
+    21300142: poring_71
+    21300144: poring_72
+    21300146: poring_73
+    21300148: poring_74
+    21300150: poring_75
+    21300152: poring_76
+    21300154: poring_77
+    21300156: poring_78
+    21300158: poring_79
+    21300160: poring_80
+    21300162: poring_81
+    21300164: poring_82
+    21300166: poring_83
+    21300168: poring_84
+    21300170: poring_85
+    21300172: poring_86
+    21300174: poring_87
+    21300176: poring_88
+    21300178: poring_89
+    21300180: poring_90
+    21300182: poring_91
+    21300184: poring_92
+    21300186: poring_93
+    21300188: poring_94
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: poring_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 507
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 16.5}
+        - {x: -12.5, y: 16.5}
+        - {x: -19.5, y: 8.5}
+        - {x: -22.5, y: 3.5}
+        - {x: -22.5, y: -13.5}
+        - {x: -12.5, y: -18.5}
+        - {x: 10.5, y: -18.5}
+        - {x: 18.5, y: -10.5}
+        - {x: 18.5, y: 3.5}
+        - {x: 12.5, y: 13.5}
+      - - {x: 10.5, y: 20.5}
+        - {x: 8.5, y: 18.5}
+        - {x: 8.5, y: 16.5}
+        - {x: 11.5, y: 13.5}
+        - {x: 13.5, y: 13.5}
+        - {x: 16.5, y: 16.5}
+        - {x: 16.5, y: 18.5}
+        - {x: 14.5, y: 20.5}
+    - name: poring_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 507
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 14.5}
+        - {x: -20.5, y: -14.5}
+        - {x: -15.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 22.5, y: -13.5}
+        - {x: 22.5, y: 13.5}
+        - {x: 21.5, y: 14.5}
+      - - {x: 17.5, y: 21.5}
+        - {x: 14.5, y: 18.5}
+        - {x: 14.5, y: 17.5}
+        - {x: 17.5, y: 14.5}
+        - {x: 19.5, y: 14.5}
+        - {x: 21.5, y: 16.5}
+        - {x: 21.5, y: 19.5}
+        - {x: 19.5, y: 21.5}
+    - name: poring_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 508
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 12.5}
+        - {x: -23.5, y: 3.5}
+        - {x: -23.5, y: -13.5}
+        - {x: -20.5, y: -21.5}
+        - {x: 16.5, y: -21.5}
+        - {x: 21.5, y: -15.5}
+        - {x: 21.5, y: 1.5}
+        - {x: 18.5, y: 12.5}
+      - - {x: 17.5, y: 21.5}
+        - {x: 14.5, y: 18.5}
+        - {x: 14.5, y: 17.5}
+        - {x: 16.5, y: 15.5}
+        - {x: 18.5, y: 15.5}
+        - {x: 20.5, y: 17.5}
+        - {x: 20.5, y: 19.5}
+        - {x: 18.5, y: 21.5}
+    - name: poring_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 506
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -13}
+        - {x: -14.5, y: -18}
+        - {x: 19.5, y: -18}
+        - {x: 22.5, y: -17}
+        - {x: 22.5, y: 19}
+        - {x: -8.5, y: 19}
+        - {x: -20.5, y: 5}
+    - name: poring_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 507
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 15.5}
+        - {x: -22.5, y: 6.5}
+        - {x: -22.5, y: -9.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 12.5, y: -19.5}
+        - {x: 18.5, y: -15.5}
+        - {x: 18.5, y: 8.5}
+        - {x: 15.5, y: 15.5}
+      - - {x: 11.5, y: 20.5}
+        - {x: 8.5, y: 17.5}
+        - {x: 8.5, y: 15.5}
+        - {x: 11.5, y: 12.5}
+        - {x: 13.5, y: 12.5}
+        - {x: 16.5, y: 15.5}
+        - {x: 16.5, y: 17.5}
+        - {x: 13.5, y: 20.5}
+    - name: poring_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 508
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 11.5}
+        - {x: -12.5, y: 10.5}
+        - {x: -22.5, y: 4.5}
+        - {x: -22.5, y: -21.5}
+        - {x: 19.5, y: -21.5}
+        - {x: 19.5, y: -1.5}
+        - {x: 12.5, y: 11.5}
+      - - {x: 14.5, y: 18.5}
+        - {x: 11.5, y: 15.5}
+        - {x: 11.5, y: 14.5}
+        - {x: 14.5, y: 11.5}
+        - {x: 16.5, y: 11.5}
+        - {x: 18.5, y: 13.5}
+        - {x: 18.5, y: 16.5}
+        - {x: 16.5, y: 18.5}
+    - name: poring_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 508
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 13}
+        - {x: -9.5, y: 13}
+        - {x: -23.5, y: 8}
+        - {x: -23.5, y: -20}
+        - {x: 18.5, y: -20}
+        - {x: 21.5, y: -16}
+        - {x: 21.5, y: 2}
+      - - {x: 15.5, y: 20}
+        - {x: 14.5, y: 19}
+        - {x: 15.5, y: 16}
+        - {x: 18.5, y: 16}
+        - {x: 20.5, y: 18}
+        - {x: 20.5, y: 20}
+    - name: poring_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 507
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 17}
+        - {x: -19, y: 14}
+        - {x: -23, y: 6}
+        - {x: -23, y: -13}
+        - {x: -21, y: -20}
+        - {x: 17, y: -20}
+        - {x: 20, y: -13}
+        - {x: 20, y: 14}
+        - {x: 19, y: 17}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

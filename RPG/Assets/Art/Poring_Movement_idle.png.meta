@@ -1,0 +1,733 @@
+fileFormatVersion: 2
+guid: 4435a3c6546f5f94790c5e56cebd48ab
+timeCreated: 1456860217
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Poring_Movement_idle_0
+    21300002: Poring_Movement_idle_1
+    21300004: Poring_Movement_idle_2
+    21300006: Poring_Movement_idle_3
+    21300008: Poring_Movement_idle_4
+    21300010: Poring_Movement_idle_5
+    21300012: Poring_Movement_idle_6
+    21300014: Poring_Movement_idle_7
+    21300016: Poring_Movement_idle_8
+    21300018: Poring_Movement_idle_9
+    21300020: Poring_Movement_idle_10
+    21300022: Poring_Movement_idle_11
+    21300024: Poring_Movement_idle_12
+    21300026: Poring_Movement_idle_13
+    21300028: Poring_Movement_idle_14
+    21300030: Poring_Movement_idle_15
+    21300032: Poring_Movement_idle_16
+    21300034: Poring_Movement_idle_17
+    21300036: Poring_Movement_idle_18
+    21300038: Poring_Movement_idle_19
+    21300040: Poring_Movement_idle_20
+    21300042: Poring_Movement_idle_21
+    21300044: Poring_Movement_idle_22
+    21300046: Poring_Movement_idle_23
+    21300048: Poring_Movement_idle_24
+    21300050: Poring_Movement_idle_25
+    21300052: Poring_Movement_idle_26
+    21300054: Poring_Movement_idle_27
+    21300056: Poring_Movement_idle_28
+    21300058: Poring_Movement_idle_29
+    21300060: Poring_Movement_idle_30
+    21300062: Poring_Movement_idle_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Poring_Movement_idle_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 151
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18}
+        - {x: -19, y: 14}
+        - {x: -19, y: -14}
+        - {x: -9, y: -17}
+        - {x: 16, y: -17}
+        - {x: 22, y: -10}
+        - {x: 22, y: 7}
+        - {x: 19, y: 18}
+    - name: Poring_Movement_idle_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 153
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 17}
+        - {x: -21.5, y: 9}
+        - {x: -21.5, y: -15}
+        - {x: -17.5, y: -17}
+        - {x: 20.5, y: -17}
+        - {x: 21.5, y: -16}
+        - {x: 21.5, y: 14}
+        - {x: 13.5, y: 17}
+    - name: Poring_Movement_idle_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 153
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 17}
+        - {x: -22.5, y: 11}
+        - {x: -22.5, y: -17}
+        - {x: 21.5, y: -17}
+        - {x: 22.5, y: -15}
+        - {x: 22.5, y: 3}
+        - {x: 17.5, y: 17}
+    - name: Poring_Movement_idle_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 154
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16.5}
+        - {x: -19, y: 10.5}
+        - {x: -19, y: -14.5}
+        - {x: -17, y: -17.5}
+        - {x: 12, y: -17.5}
+        - {x: 19, y: -8.5}
+        - {x: 19, y: 15.5}
+        - {x: 18, y: 16.5}
+    - name: Poring_Movement_idle_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 153
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -20, y: 8}
+        - {x: -20, y: -12}
+        - {x: -13, y: -18}
+        - {x: 7, y: -18}
+        - {x: 18, y: -13}
+        - {x: 18, y: 15}
+        - {x: 13, y: 19}
+    - name: Poring_Movement_idle_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 153
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: 8, y: 17}
+        - {x: -11, y: 17}
+        - {x: -20, y: 7}
+        - {x: -20, y: -8}
+        - {x: -19, y: -12}
+        - {x: -14, y: -18}
+        - {x: 14, y: -18}
+        - {x: 20, y: -6}
+        - {x: 20, y: 10}
+        - {x: 18, y: 12}
+    - name: Poring_Movement_idle_6
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 152
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 17.5}
+        - {x: -13.5, y: 17.5}
+        - {x: -21.5, y: 10.5}
+        - {x: -21.5, y: -8.5}
+        - {x: -17.5, y: -17.5}
+        - {x: 12.5, y: -17.5}
+        - {x: 17.5, y: -7.5}
+        - {x: 17.5, y: 11.5}
+      - - {x: 13.5, y: 10.5}
+        - {x: 14.5, y: 8.5}
+        - {x: 19.5, y: 8.5}
+        - {x: 19.5, y: 13.5}
+        - {x: 18.5, y: 14.5}
+        - {x: 16.5, y: 14.5}
+        - {x: 13.5, y: 12.5}
+    - name: Poring_Movement_idle_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 153
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 9.5}
+        - {x: 7.5, y: 17.5}
+        - {x: -17.5, y: 17.5}
+        - {x: -19.5, y: 11.5}
+        - {x: -19.5, y: -16.5}
+        - {x: -15.5, y: -17.5}
+        - {x: 14.5, y: -17.5}
+        - {x: 19.5, y: -7.5}
+        - {x: 19.5, y: 2.5}
+    - name: Poring_Movement_idle_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 95
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 17}
+        - {x: -8.5, y: 17}
+        - {x: -20.5, y: 12}
+        - {x: -20.5, y: -7}
+        - {x: -19.5, y: -10}
+        - {x: -15.5, y: -17}
+        - {x: -9.5, y: -18}
+        - {x: 12.5, y: -18}
+        - {x: 20.5, y: -9}
+        - {x: 20.5, y: 4}
+        - {x: 14.5, y: 14}
+    - name: Poring_Movement_idle_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 95
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 16.5}
+        - {x: -10.5, y: 15.5}
+        - {x: -21.5, y: 6.5}
+        - {x: -21.5, y: -9.5}
+        - {x: -18.5, y: -17.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 21.5, y: -11.5}
+        - {x: 21.5, y: 10.5}
+        - {x: 15.5, y: 16.5}
+    - name: Poring_Movement_idle_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 95
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -22, y: 12}
+        - {x: -22, y: -17}
+        - {x: 21, y: -17}
+        - {x: 22, y: -15}
+        - {x: 22, y: 3}
+        - {x: 17, y: 17}
+    - name: Poring_Movement_idle_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 96
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 17}
+        - {x: -7.5, y: 17}
+        - {x: -19.5, y: 12}
+        - {x: -19.5, y: -15}
+        - {x: -15.5, y: -18}
+        - {x: 14.5, y: -18}
+        - {x: 18.5, y: -11}
+        - {x: 19.5, y: -6}
+        - {x: 19.5, y: 16}
+    - name: Poring_Movement_idle_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 95
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -17, y: 11}
+        - {x: -19, y: 9}
+        - {x: -19, y: -12}
+        - {x: -17, y: -19}
+        - {x: 9, y: -19}
+        - {x: 18, y: -13}
+        - {x: 18, y: 16}
+        - {x: 6, y: 19}
+    - name: Poring_Movement_idle_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 95
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 16.5}
+        - {x: -18.5, y: 12.5}
+        - {x: -18.5, y: -16.5}
+        - {x: -17.5, y: -18.5}
+        - {x: 10.5, y: -18.5}
+        - {x: 18.5, y: -12.5}
+        - {x: 18.5, y: 15.5}
+        - {x: 17.5, y: 16.5}
+    - name: Poring_Movement_idle_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 95
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16.5}
+        - {x: -21, y: 12.5}
+        - {x: -21, y: -11.5}
+        - {x: -16, y: -18.5}
+        - {x: 14, y: -18.5}
+        - {x: 18, y: -14.5}
+        - {x: 18, y: 11.5}
+        - {x: 17, y: 16.5}
+      - - {x: 14, y: 9.5}
+        - {x: 15, y: 7.5}
+        - {x: 18, y: 7.5}
+        - {x: 20, y: 8.5}
+        - {x: 20, y: 11.5}
+        - {x: 19, y: 13.5}
+        - {x: 17, y: 13.5}
+        - {x: 14, y: 11.5}
+    - name: Poring_Movement_idle_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 95
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 15}
+        - {x: -20, y: 11}
+        - {x: -20, y: -19}
+        - {x: 14, y: -19}
+        - {x: 19, y: -10}
+        - {x: 19, y: 5}
+        - {x: 11, y: 15}
+    - name: Poring_Movement_idle_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 59
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -19, y: 10}
+        - {x: -19, y: -14}
+        - {x: -17, y: -18}
+        - {x: 17, y: -18}
+        - {x: 20, y: -12}
+        - {x: 20, y: 12}
+        - {x: 14, y: 16}
+    - name: Poring_Movement_idle_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 57
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 17.5}
+        - {x: -19.5, y: 7.5}
+        - {x: -19.5, y: -11.5}
+        - {x: -13.5, y: -16.5}
+        - {x: 15.5, y: -16.5}
+        - {x: 19.5, y: -9.5}
+        - {x: 19.5, y: 13.5}
+        - {x: 12.5, y: 17.5}
+      - - {x: -19.5, y: 15.5}
+        - {x: -21.5, y: 14.5}
+        - {x: -21.5, y: 11.5}
+        - {x: -19.5, y: 9.5}
+        - {x: -17.5, y: 9.5}
+        - {x: -15.5, y: 11.5}
+        - {x: -15.5, y: 12.5}
+        - {x: -17.5, y: 15.5}
+    - name: Poring_Movement_idle_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 59
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 17.5}
+        - {x: -20.5, y: 14.5}
+        - {x: -20.5, y: -16.5}
+        - {x: -15.5, y: -17.5}
+        - {x: 19.5, y: -17.5}
+        - {x: 19.5, y: 10.5}
+        - {x: 18.5, y: 17.5}
+    - name: Poring_Movement_idle_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 59
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 18}
+        - {x: -19.5, y: -10}
+        - {x: -11.5, y: -18}
+        - {x: 14.5, y: -18}
+        - {x: 18.5, y: -10}
+        - {x: 18.5, y: 14}
+        - {x: 13.5, y: 18}
+    - name: Poring_Movement_idle_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 59
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 17}
+        - {x: -20, y: -11}
+        - {x: -16, y: -17}
+        - {x: 16, y: -17}
+        - {x: 19, y: -16}
+        - {x: 19, y: 15}
+        - {x: 12, y: 17}
+    - name: Poring_Movement_idle_21
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 59
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 16.5}
+        - {x: -16, y: 16.5}
+        - {x: -23, y: 9.5}
+        - {x: -23, y: -12.5}
+        - {x: -15, y: -17.5}
+        - {x: 15, y: -17.5}
+        - {x: 22, y: -10.5}
+        - {x: 22, y: 6.5}
+    - name: Poring_Movement_idle_22
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 59
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16.5}
+        - {x: -22, y: 6.5}
+        - {x: -22, y: -12.5}
+        - {x: -19, y: -17.5}
+        - {x: 14, y: -17.5}
+        - {x: 21, y: -14.5}
+        - {x: 21, y: 4.5}
+        - {x: 10, y: 16.5}
+    - name: Poring_Movement_idle_23
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 59
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 17.5}
+        - {x: -13, y: 17.5}
+        - {x: -21, y: 5.5}
+        - {x: -21, y: -15.5}
+        - {x: -14, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 20, y: -13.5}
+        - {x: 20, y: 5.5}
+        - {x: 19, y: 10.5}
+    - name: Poring_Movement_idle_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 16.5}
+        - {x: -19.5, y: 10.5}
+        - {x: -19.5, y: -17.5}
+        - {x: 15.5, y: -17.5}
+        - {x: 19.5, y: -16.5}
+        - {x: 19.5, y: 8.5}
+        - {x: 12.5, y: 16.5}
+    - name: Poring_Movement_idle_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 15.5}
+        - {x: -19.5, y: 4.5}
+        - {x: -19.5, y: -14.5}
+        - {x: -13.5, y: -19.5}
+        - {x: 15.5, y: -19.5}
+        - {x: 19.5, y: -12.5}
+        - {x: 19.5, y: 10.5}
+        - {x: 10.5, y: 15.5}
+      - - {x: -19.5, y: 12.5}
+        - {x: -21.5, y: 10.5}
+        - {x: -21.5, y: 8.5}
+        - {x: -19.5, y: 6.5}
+        - {x: -17.5, y: 6.5}
+        - {x: -15.5, y: 8.5}
+        - {x: -15.5, y: 9.5}
+        - {x: -18.5, y: 12.5}
+    - name: Poring_Movement_idle_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16}
+        - {x: -20.5, y: 13}
+        - {x: -20.5, y: -18}
+        - {x: -15.5, y: -19}
+        - {x: 19.5, y: -19}
+        - {x: 19.5, y: 9}
+        - {x: 18.5, y: 16}
+    - name: Poring_Movement_idle_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 19}
+        - {x: -20.5, y: 15}
+        - {x: -20.5, y: -15}
+        - {x: -12.5, y: -19}
+        - {x: 15.5, y: -19}
+        - {x: 17.5, y: -16}
+        - {x: 17.5, y: 14}
+        - {x: 10.5, y: 19}
+    - name: Poring_Movement_idle_28
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16.5}
+        - {x: -20, y: 14.5}
+        - {x: -20, y: -11.5}
+        - {x: -17, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 19, y: -16.5}
+        - {x: 19, y: 6.5}
+        - {x: 9, y: 16.5}
+    - name: Poring_Movement_idle_29
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 15}
+        - {x: -15.5, y: 15}
+        - {x: -22.5, y: 8}
+        - {x: -22.5, y: -14}
+        - {x: -14.5, y: -19}
+        - {x: 15.5, y: -19}
+        - {x: 22.5, y: -12}
+        - {x: 22.5, y: 5}
+    - name: Poring_Movement_idle_30
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 14.5}
+        - {x: -21.5, y: 7.5}
+        - {x: -21.5, y: -12.5}
+        - {x: -18.5, y: -19.5}
+        - {x: 10.5, y: -19.5}
+        - {x: 15.5, y: -18.5}
+        - {x: 21.5, y: -16.5}
+        - {x: 21.5, y: 3.5}
+        - {x: 15.5, y: 14.5}
+    - name: Poring_Movement_idle_31
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 15.5}
+        - {x: -13, y: 15.5}
+        - {x: -20, y: 5.5}
+        - {x: -20, y: -18.5}
+        - {x: -14, y: -19.5}
+        - {x: 16, y: -19.5}
+        - {x: 20, y: -15.5}
+        - {x: 20, y: 3.5}
+        - {x: 19, y: 8.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
